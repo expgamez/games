@@ -83,7 +83,7 @@ var gamesText = `{
           "name":"Brick Breaker",
           "img":"img/brickbr.png",
           "path":"Brick_Breaker-master/index.html"
-      },
+      }
     ]
 }`;
 var gameObject = JSON.parse(gamesText);
