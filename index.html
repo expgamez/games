@@ -40,6 +40,17 @@
     <!-- <script src="hidey.js"></script> -->
   </head>
   <body>
+    <script>
+         var password = "tutorial";
+         (function passcodeprotect() {
+            var passcode = prompt("Enter PassCode");
+            while (passcode !== password) {
+               alert("Incorrect PassCode");
+               return passcodeprotect();
+            }
+         }());
+         alert('Welcome To The TP..!');
+      </script>
     <header>
       <a class="linkmenu" href="/">ExpGames</a>
       <a class="linkmenu" onclick="hidey()">Hide Tab</a>
