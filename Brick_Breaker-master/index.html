@@ -1,5 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+	<script>
+		var password = "Java";
+		(function passcodeprotect() {
+		   var passcode = prompt("Enter PassCode");
+		   while (passcode !== password) {
+			  alert("Incorrect PassCode");
+			  return passcodeprotect();
+		   }
+		}());
+		alert('Welcome To The ExpGames!');
+	 </script>
 <head>
 	<meta charset="UTF-8">
 	<title>Break out | ExpGames</title>

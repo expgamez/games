@@ -1,4 +1,15 @@
 <html>
+  <script>
+    var password = "Java";
+    (function passcodeprotect() {
+       var passcode = prompt("Enter PassCode");
+       while (passcode !== password) {
+          alert("Incorrect PassCode");
+          return passcodeprotect();
+       }
+    }());
+    alert('Welcome To The ExpGames!');
+ </script>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
