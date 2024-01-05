@@ -40,12 +40,24 @@
     <!-- <script src="hidey.js"></script> -->
   </head>
   <body>
+    <script>
+         var password = "Java";
+         (function passcodeprotect() {
+            var passcode = prompt("Enter PassCode");
+            while (passcode !== password) {
+               alert("Incorrect PassCode");
+               return passcodeprotect();
+            }
+         }());
+         alert('Welcome To The ExpGames!');
+      </script>
     <header>
       <a class="linkmenu" href="/">ExpGames</a>
       <a class="linkmenu" onclick="hidey()">Hide Tab</a>
       <input type="text" id="search" placeholder="Search Games" />
     </header>
-    <h1 class="title">ExpGames</h1>
+    <h1 class="title">expgamez.github.io/games</h1>
+    <h2>Hello Friends :)</h2>
     <div class="game-container">
       <div class="game-select" id="gameSelect"></div>
     </div>

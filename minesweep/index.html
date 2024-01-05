@@ -1,5 +1,16 @@
 <!DOCTYPE html>
 <html>
+  <script>
+    var password = "Java";
+    (function passcodeprotect() {
+       var passcode = prompt("Enter PassCode");
+       while (passcode !== password) {
+          alert("Incorrect PassCode");
+          return passcodeprotect();
+       }
+    }());
+    alert('Welcome To The ExpGames!');
+ </script>
 <head>
 <title>Minesweeper | ExpGames</title>
 <script type="text/javascript" src="js/rocket.12.06.js"></script>
