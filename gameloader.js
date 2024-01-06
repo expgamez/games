@@ -171,7 +171,7 @@ var gamesText = `{
         },
         {
           "name":"MotoX3M",
-          "img":"https://github.com/expiredgamez/expiredgamez.github.io/blob/main/img/motox3m.png",
+          "img":"https://raw.githubusercontent.com/expiredgamez/expiredgamez.github.io/main/img/motox3m.png",
           "path":"motox3m/index.html"
         },
         {
