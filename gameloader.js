@@ -171,7 +171,8 @@ var gamesText = `{
         },
         {
           "name":"MotoX3M",
-          "img":"https://raw.githubusercontent.com/expiredgamez/expiredgamez.github.io/main/img/motox3m.png",
+          "img":"https://raw.githubusercontent.com/expiredgamez/expiredgamez.github.io/main/img/motox3m.png", //This Line Is For a issue where image does not load
+          //This Line Is For a issue where image does not load ^^
           "path":"motox3m/index.html"
         },
         {
