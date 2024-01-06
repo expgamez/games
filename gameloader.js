@@ -197,7 +197,7 @@ var gamesText = `{
         {
           "name":"Flappy Bird",
           "img":"img/flappybird.jpg",
-          "path":"flappy/index.html"
+          "path":"flappy/"
         }
 
     ]
