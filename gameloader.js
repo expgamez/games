@@ -171,6 +171,7 @@ var gamesText = `{
         },
         {
           "name":"MotoX3M",
+          "img":"img/motox3m.png",
           "path":"motox3m/index.html"
         },
         {
