@@ -72,127 +72,127 @@ var gamesText = `{
         {
             "name":"PingPong",
             "img":"img/pingpong.png",
-            "path":"ping-pong-master/index.html"
+            "path":"ping-pong-master/"
         },
         {
             "name":"Space Invader",
             "img":"img/spiv.png",
-            "path":"SpaceInvaders/index.html"
+            "path":"SpaceInvaders/"
         },
         {
           "name":"Brick Breaker",
           "img":"img/brbr.png",
-          "path":"Brick_Breaker-master/index.html"
+          "path":"Brick_Breaker-master/"
         },
         {
           "name":"Minesweeper",
           "img":"img/minesw.webp",
-          "path":"minesweep/index.html"
+          "path":"minesweep/"
         },
         {
           "name":"Google Dino",
           "img":"img/dino.png",
-          "path":"googdino/index.html"
+          "path":"googdino/"
         },
         {
           "name":"Mario Portal",
           "img":"img/ma0.jpg",
-          "path":"mario/index.html"
+          "path":"mario/"
         },
         {
           "name":"Super Mario 64",
           "img":"img/m64.png",
-          "path":"sm64/index.html"
+          "path":"sm64/"
         },
         {
           "name":"Tetris",
           "img":"img/tetris.png",
-          "path":"tetris/index.html"
+          "path":"tetris/"
         },
         {
           "name":"Pokemon Fire",
           "img":"img/pkmr.webp",
-          "path":"Pokemon%20Fire%20Red/index.html"
+          "path":"Pokemon%20Fire%20Red/"
         },
         {
           "name":"Pokemon Green",
           "img":"img/pkmg.jpg",
-          "path":"Pokemon%20Leaf%20Green/index.html"
+          "path":"Pokemon%20Leaf%20Green/"
         },
         {
           "name":"2048",
           "img":"img/2048img.png",
-          "path":"2048/index.html"
+          "path":"2048/"
         },
         {
           "name":"Sonic Advance",
           "img":"img/sonica.jpg",
-          "path":"emu/GBA/sonic-advance/index.html"
+          "path":"emu/GBA/sonic-advance/"
         },
         {
           "name":"Super Mario World",
           "img":"img/smw.jpg",
-          "path":"emu/SNES/smw/index.html"
+          "path":"emu/SNES/smw/"
         },
         {
           "name":"Super Mario Kart",
           "img":"img/smk.png",
-          "path":"emu/SNES/smk/index.html"
+          "path":"emu/SNES/smk/"
         },
         {
           "name":"Legend Of Zelda",
           "img":"img/loz.webp",
-          "path":"emu/SNES/loz/index.html"
+          "path":"emu/SNES/loz/"
         },
         {
           "name":"Bitlife",
           "img":"img/bitlife.png",
-          "path":"Bitlife/index.html"
+          "path":"Bitlife/"
         },
         {
           "name":"Retrobowl",
           "img":"img/bowl.png",
-          "path":"retrobowl/index.html"
+          "path":"retrobowl/"
         },
         {
           "name":"NES Emulator",
           "img":"img/nes.png",
-          "path":"nes/index.html"
+          "path":"nes/"
         },
         {
           "name":"RUN 3",
           "img":"img/run3.png",
-          "path":"RUN3/index.html"
+          "path":"RUN3/"
         },
         {
           "name":"Cookie Clicker",
           "img":"img/cookieclicker.png",
-          "path":"cookieclicker/index.html"
+          "path":"cookieclicker/"
         },
         {
           "name":"MotoX3M",
           "img":"https://raw.githubusercontent.com/expiredgamez/expiredgamez.github.io/main/img/motox3m.png",
-          "path":"motox3m/index.html"
+          "path":"motox3m/"
         },
         {
           "name":"Fluid Simulation",
           "img":"img/fluidsim.png",
-          "path":"Fluid-Simulation/index.html"
+          "path":"Fluid-Simulation/"
         },
         {
           "name":"Wordle",
           "img":"img/wordlelogo.webp",
-          "path":"Wordle/index.html"
+          "path":"Wordle/"
         },
         {
           "name":"Subway Surfers",
           "img":"img/subwaysurfers.webp",
-          "path":"subway/index.html"
+          "path":"subway/"
         },
         {
           "name":"Sandboxels",
           "img":"img/sandboxels.jfif",
-          "path":"sandboxels/index.html"
+          "path":"sandboxels/"
         },
         {
           "name":"Flappy Bird",
