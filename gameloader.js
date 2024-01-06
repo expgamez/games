@@ -72,14 +72,12 @@ var gamesText = `{
         {
             "name":"PingPong",
             "img":"img/pingpong.png",
-            "path":"ping-pong-master/
-"
+            "path":"ping-pong-master/"
         },
         {
             "name":"Space Invader",
             "img":"img/spiv.png",
-            "path":"SpaceInvaders/
-"
+            "path":"SpaceInvaders/"
         },
         {
           "name":"Brick Breaker",
